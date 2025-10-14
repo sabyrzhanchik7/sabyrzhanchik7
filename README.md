@@ -64,7 +64,3 @@ Feel free to reach out if you want to collaborate or just say hi!
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sabyrzhanchik7)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabyrzhanchik7@gmail.com)
-
----
-
-⭐️ From [@sabyrzhanchik7](https://github.com/sabyrzhanchik7)
