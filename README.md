@@ -71,6 +71,7 @@ I enjoy creating clean, intuitive designs and continuously improving my skills t
     <img src="https://www.codewars.com/users/sabyrzhanchik7/badges/large" alt="Codewars Badge" />
   </a>
   <br/>
+  <br />
   <img src="https://leetcard.jacoblin.cool/sabyrzhanchik7" alt="Leetcode Stats" />
 </p>
 
