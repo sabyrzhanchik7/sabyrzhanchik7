@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sabyrzhan
+# 👋 Hi there 👋, I'm Sabyrzhan
 
 Frontend developer focused on building fast, maintainable, and user-friendly web apps using the React ecosystem, modern tooling, and automated testing workflows.  
 I'm passionate about crafting seamless user experiences and writing clean, scalable code.
@@ -42,25 +42,46 @@ I enjoy creating clean, intuitive designs and continuously improving my skills t
 
 ## 🚀 Projects
 
-📋 **[Trelly](https://github.com/sabyrzhanchik7/trelly)** — Task management app built with **React**.  
-
-🎵 **[Musicfun](https://github.com/sabyrzhanchik7/musicfun)** — Web-based **music player** built with **React**.  
-
-📝 **[Todo React](https://github.com/sabyrzhanchik7/todo-react)** — To-do list app with a **responsive UI** built with **React**.  
-
-💻 **[Todo Vanilla](https://github.com/sabyrzhanchik7/todo-vanilla)** — To-do list app built with **Vanilla JavaScript**.  
-
-🎨 **[Positivus](https://github.com/sabyrzhanchik7/positivus)** — Creative digital agency website with a **clean, modern layout**.  
-
-💪 **[Kropp Fitness](https://github.com/sabyrzhanchik7/kropp-fitness)** — Modern **fitness club landing page** with **responsive design**.  
+<p align="center">
+  <a href="https://github.com/sabyrzhanchik7/trelly"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sabyrzhanchik7&repo=trelly&theme=react&hide_border=true" /></a>
+  <a href="https://github.com/sabyrzhanchik7/musicfun"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sabyrzhanchik7&repo=musicfun&theme=react&hide_border=true" /></a>
+  <a href="https://github.com/sabyrzhanchik7/todo-react"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sabyrzhanchik7&repo=todo-react&theme=react&hide_border=true" /></a>
+  <a href="https://github.com/sabyrzhanchik7/todo-vanilla"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sabyrzhanchik7&repo=todo-vanilla&theme=react&hide_border=true" /></a>
+  <a href="https://github.com/sabyrzhanchik7/positivus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sabyrzhanchik7&repo=positivus&theme=react&hide_border=true" /></a>
+  <a href="https://github.com/sabyrzhanchik7/kropp-fitness"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sabyrzhanchik7&repo=kropp-fitness&theme=react&hide_border=true" /></a>
+</p>
 
 ## 📊 GitHub Stats
 
-![Sabyrzhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabyrzhanchik7&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabyrzhanchik7&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabyrzhanchik7&show_icons=true&theme=react&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabyrzhanchik7&layout=compact&theme=react&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabyrzhanchik7&bg_color=282c34&color=ffffff&line=61dafb&point=61dafb&area=true&hide_border=true" />
+  </a>
+</p>
+
+## 🧩 Algorithms
+
+<p align="center">
+  <a href="https://www.codewars.com/users/sabyrzhanchik7">
+    <img src="https://www.codewars.com/users/sabyrzhanchik7/badges/large" alt="Codewars Badge" />
+  </a>
+  <br/>
+  <img src="https://leetcard.jacoblin.cool/sabyrzhanchik7" alt="Leetcode Stats" />
+</p>
 
 ## 💬 Connect with me
 Feel free to reach out if you want to collaborate or just say hi!
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sabyrzhanchik7)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabyrzhanchik7@gmail.com)
+<p align="center">
+  <a href="https://t.me/sabyrzhanchik7"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:sabyrzhanchik7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">⭐️ From <a href="https://github.com/sabyrzhanchik7">sabyrzhanchik7</a></p>
