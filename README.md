@@ -9,7 +9,9 @@ I enjoy creating clean, intuitive designs and continuously improving my skills t
 
 ### 🖥️ Frontend  
 ![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
 ![Sass](https://skillicons.dev/icons?i=sass)
+![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![React](https://skillicons.dev/icons?i=react)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
