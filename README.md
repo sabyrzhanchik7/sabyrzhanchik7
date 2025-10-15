@@ -1,4 +1,4 @@
-# 👋 Hi there 👋, I'm Sabyrzhan
+# 👋 Hi there, I'm Sabyrzhan
 
 Frontend developer focused on building fast, maintainable, and user-friendly web apps using the React ecosystem, modern tooling, and automated testing workflows.  
 I'm passionate about crafting seamless user experiences and writing clean, scalable code.
